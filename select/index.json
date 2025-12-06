@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "Who I Am",
+  "base_artist": "milet",
+  "createdAt": "2025-12-06T15:13:11.932627Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Who I Am",
+      "artist": "Jessica Andrews",
+      "has_synced": true,
+      "path": "select/01_Who_I_Am_Jessica_Andrews.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Who I Am",
+      "artist": "Jessica Andrews",
+      "has_synced": true,
+      "path": "select/02_Who_I_Am_Jessica_Andrews.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Don't Even Know Who I Am",
+      "artist": "Patty Loveless",
+      "has_synced": true,
+      "path": "select/03_You_Don't_Even_Know_Who_I_Am_Patty_Loveless.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You Don't Even Know Who I Am (Album Version)",
+      "artist": "Patty Loveless",
+      "has_synced": true,
+      "path": "select/04_You_Don't_Even_Know_Who_I_Am_(Album_Version)_Patty_Loveless.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "This Is Who I Am - feat. Swizz Beatz & Mashonda Edited",
+      "artist": "Lil' Kim",
+      "has_synced": false,
+      "path": "select/05_This_Is_Who_I_Am_-_feat._Swizz_Beatz_&_Mashonda_Edited_Lil'_Kim.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "This Is Who I Am (Feat. Swizz Beatz & Mashonda)",
+      "artist": "Lil' Kim",
+      "has_synced": false,
+      "path": "select/06_This_Is_Who_I_Am_(Feat._Swizz_Beatz_&_Mashonda)_Lil'_Kim.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Who I Am",
+      "artist": "Lil Xan",
+      "has_synced": true,
+      "path": "select/07_Who_I_Am_Lil_Xan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You Know Who I Am",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/08_You_Know_Who_I_Am_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Who I Am",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/09_Who_I_Am_Sandra.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Am Who I Am",
+      "artist": "The Books",
+      "has_synced": false,
+      "path": "select/10_I_Am_Who_I_Am_The_Books.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Who I Am",
+      "artist": "Maroon 5 feat. LunchMoney Lewis",
+      "has_synced": true,
+      "path": "select/11_Who_I_Am_Maroon_5_feat._LunchMoney_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Who I Am",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/12_Who_I_Am_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Man Who I Am",
+      "artist": "House of Lords",
+      "has_synced": false,
+      "path": "select/13_The_Man_Who_I_Am_House_of_Lords.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Do You Know Who I Am?",
+      "artist": "Echo & The Bunnymen",
+      "has_synced": false,
+      "path": "select/14_Do_You_Know_Who_I_Am_Echo_&_The_Bunnymen.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Am Who I Am",
+      "artist": "Running Wild",
+      "has_synced": true,
+      "path": "select/15_I_Am_Who_I_Am_Running_Wild.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "See Who I Am",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/16_See_Who_I_Am_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "See Who I Am",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/17_See_Who_I_Am_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Who I Am",
+      "artist": "PaceWon & Mr. Green",
+      "has_synced": false,
+      "path": "select/18_Who_I_Am_PaceWon_&_Mr._Green.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Who I Am",
+      "artist": "Pusha T feat. 2 Chainz & Big Sean",
+      "has_synced": true,
+      "path": "select/19_Who_I_Am_Pusha_T_feat._2_Chainz_&_Big_Sean.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "B Who I Want 2 B",
+      "artist": "Namie Amuro feat. Miku Hatsune",
+      "has_synced": true,
+      "path": "select/20_B_Who_I_Want_2_B_Namie_Amuro_feat._Miku_Hatsune.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "B Who I Want 2 B (feat. Hatsune Miku)",
+      "artist": "Namie Amuro",
+      "has_synced": true,
+      "path": "select/21_B_Who_I_Want_2_B_(feat._Hatsune_Miku)_Namie_Amuro.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Who I Thought You Were",
+      "artist": "Santigold",
+      "has_synced": true,
+      "path": "select/22_Who_I_Thought_You_Were_Santigold.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Who I Am",
+      "artist": "milet",
+      "has_synced": false,
+      "path": "select/pl_01_Who_I_Am_milet.txt"
+    }
+  ]
+}

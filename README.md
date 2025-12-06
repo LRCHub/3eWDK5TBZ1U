@@ -1,0 +1,85 @@
+# milet – Who I Am
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I'm trying to keep my head high
+あの光はもう見えない
+誰のせいでもないけど
+失うばかりじゃ no more
+ｰ
+何かひとつ足りなくて
+泣いても笑っても違くて
+Been slowly losing my
+grip on my life
+But now I'm moving
+forward somehow
+-
+Remember who you are
+騙した思いから
+-
+You're testing my patience
+My life is nonfiction
+最後のステージからover and over
+You're making me stronger
+塞いだ自由が
+いま吐き出す 繰り返す
+この声が
+who I am
+-
+I've come up empty handed
+抜け殻の頭でもがいて
+ただ夜明けを待っていた
+ずっと扉は開いていた
+-
+駆け上がっていくんだ
+声も無く We're hurting inside
+きっと痛いほどわかっていた
+But please don't stop
+till you get enough
+-
+Remember who you are
+繋いだ両手が
+-
+You're testing my patience
+My life is nonfiction
+最後のステージから
+over and over
+You're making me stronger
+塞いだ自由が
+いま吐き出す 繰り返す
+この声が
+who I am
+-
+You make me strong
+enough to face my fears
+No matter what they say,
+I choose to believe
+You make me strong
+enough to face my fears
+-
+you're testing my patience
+My life is nonfiction
+最後のステージから
+over and over
+You're making me stronger
+救えない昨日も
+No I won'tdeny it anymore
+-
+You're testing my patience
+My life is nonfiction
+最後のステージから
+over and over
+You're making me stronger
+塞いだ自由が
+いま吐き出す 繰り返す
+この声が
+Who I am
+-
+You make me strong
+enough to face my fears
+No matter what they say
+I choose to believe
+You make me strong
+enough to face my fears
+```
